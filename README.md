@@ -15,7 +15,10 @@ the structure of the dashboard page.
 
 d. Plotly.js to create interactive dashboard charts.
 
-e. Created an app in Heroku and connected my github repository to Heroku for web application deployment.
+e. Created a github file called Procfile that contains "web: gunicorn app:app";
+This is to determine how to start the web app, as Heroku first looks for a Procfile.
+
+f. Created an app in Heroku and connected my github repository to Heroku for web application deployment.
 
 ```
 
