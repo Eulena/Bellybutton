@@ -4,11 +4,13 @@
 
 In this homework, an interactive dashboard has been created to explore the Belly Button Biodiversity DataSet. Below is an outline of  how this dashboard was successfully built:
 ```
-a. Flask API code to serve the data needed for visualization (plots) and to serve the HTML and JavaScript required for dashboard; Data API routes created.
+a. Flask API code to serve the data needed for visualization (plots) and to serve the HTML and JavaScript 
+required for dashboard; Data API routes created.
 
 b. Sqlite database file and SQLAlchemy used to create DFs
 
-c. Template which holds the index.html for the dashboard landing page. Bootstrap grid system used to create the structure of the dashboard page.
+c. Template which holds the index.html for the dashboard landing page. Bootstrap grid system used to create 
+the structure of the dashboard page.
 
 d. Plotly.js to create interactive dashboard charts.
 
