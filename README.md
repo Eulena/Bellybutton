@@ -1,6 +1,6 @@
 ## Submitted by: Monica Zulueta-Linsangan
 
-## Bellybutton Biodiversity Dashboard Homework
+## Belly Button Biodiversity Dashboard HOMEWORK
 
 In this homework, an interactive dashboard has been created to explore the Belly Button Biodiversity DataSet. Below is an outline of  how this dashboard was successfully built:
 ```
@@ -19,12 +19,12 @@ e. Created an app in Heroku and connected my github repository to Heroku for web
 ```
 
 
-## Belly Button Biodiversity Dashboard Website: 
+## Belly Button Biodiversity Dashboard WEBSITE 
 
 https://monica-app.herokuapp.com/
 
 
 
-## Screenshot
+## Belly Button Biodiversity Dashboard SCREENSHOT
 
 ![final_app_part4.png](/BellybuttonWebPage.PNG)
