@@ -19,4 +19,4 @@ Belly Button Biodiversity Dashboard Website: https://monica-app.herokuapp.com/
 
 ## Screenshot
 
-![final_app_part4.png](/BellyButtonBiodiversityDashboard.PNG)
+![final_app_part4.png](/BellybuttonWebPage.PNG)
